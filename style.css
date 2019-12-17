@@ -1,0 +1,81 @@
+ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: #aaa;
+}
+
+.header {
+  float: right;
+  padding: 0px 10px 10px 10px;
+}
+
+.header ul li {
+  padding-left: 10px;
+}
+
+.fa-th {
+  color: #aaa;
+}
+
+#sign-in {
+  color: white;
+  background: #389;
+  font-weight: bold;
+  padding: 6px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.main {
+  text-align: center;
+  padding-top: 180px;
+}
+
+#logo {
+  width: 272px;
+}
+
+#search-bar {
+  width: 500px;
+  height: 32px;
+  margin: 10px 0px 20px 0px;
+  border-radius: 20px;
+}
+
+.buttons ul li {
+  padding: 10px 10px 10px 10px;
+  font-weight: bold;
+  border-radius: 4px;
+  background: #eee;
+}
+
+.buttons ul li a {
+  color: gray;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background: #eee;
+  border-top: 1px solid #ddd;
+}
+
+.left {
+  float: left;
+  margin-left: -30px;
+}
+
+.right {
+  float: right;
+  margin-right: 10px;
+}
+
+.footer ul li {
+  padding: 0px 10px 0px 10px;
+}
